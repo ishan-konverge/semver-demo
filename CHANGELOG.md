@@ -1,3 +1,12 @@
+## [0.2.3](https://github.com/ishan-konverge/semver-demo/compare/v0.2.2...v0.2.3) (2022-10-11)
+
+
+### Bug Fixes
+
+* 12345 ([279ac16](https://github.com/ishan-konverge/semver-demo/commit/279ac16bcc641f68252674a28bcf283279ac664e))
+
+
+
 ## [0.2.2](https://github.com/ishan-konverge/semver-demo/compare/v0.2.0...v0.2.2) (2022-10-11)
 
 
