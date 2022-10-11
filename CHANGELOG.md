@@ -1,3 +1,15 @@
+## [0.2.2](https://github.com/ishan-konverge/semver-demo/compare/v0.2.0...v0.2.2) (2022-10-11)
+
+
+### Bug Fixes
+
+* fixme ([2d1793e](https://github.com/ishan-konverge/semver-demo/commit/2d1793e35b01c24fd1a3df208c6068bad3431a21))
+* I have fixed this issue ([bbf825b](https://github.com/ishan-konverge/semver-demo/commit/bbf825bab94e620a25f62b03911598b198f4f6e2))
+* I have fixed this issue too ([5aaeecd](https://github.com/ishan-konverge/semver-demo/commit/5aaeecd74e0dced707253fe87bc60dd64a422e8c))
+* newone1111 ([c8e90f5](https://github.com/ishan-konverge/semver-demo/commit/c8e90f559fe0214bab831b487882f9ead1c052f7))
+
+
+
 # [0.2.0](https://github.com/ishan-konverge/semver-demo/compare/v0.1.0...v0.2.0) (2022-10-11)
 
 
