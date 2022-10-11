@@ -1,4 +1,13 @@
-# 0.1.0 (2022-10-11)
+# [0.2.0](https://github.com/ishan-konverge/semver-demo/compare/v0.1.0...v0.2.0) (2022-10-11)
+
+
+### Features
+
+* newone1111 ([83a2de9](https://github.com/ishan-konverge/semver-demo/commit/83a2de9b393c6b59b5b2d76df3121d63498f0d6d))
+
+
+
+# [0.1.0](https://github.com/ishan-konverge/semver-demo/compare/5a744f5c0707bb0a96529add51033eb23a03343e...v0.1.0) (2022-10-11)
 
 
 ### Features
