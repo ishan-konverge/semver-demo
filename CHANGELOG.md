@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/ishan-konverge/semver-demo/compare/v0.2.3...v0.3.0) (2022-10-12)
+
+
+### Features
+
+* awsome feature added ([d6f258e](https://github.com/ishan-konverge/semver-demo/commit/d6f258e7dadaa5eeab0838bb5db436089205090e))
+
+
+
 ## [0.2.3](https://github.com/ishan-konverge/semver-demo/compare/v0.2.2...v0.2.3) (2022-10-11)
 
 
